@@ -137,4 +137,17 @@
     - label: email
       link: jessica.watson1@live.com
   badges:
-    - name: coach
+    - name: coac   
+- name: plus-one
+- label: Hyeju Hong
+  tagline: Mother, Cook, Web Dev Lover
+  avatar: 
+  links:
+    - label: github
+      link: https://github.com/Hyeju1996
+    - label: linkedin
+      link: ://www.linkedin.com/in/hyeju-hong-1b43aa221/
+    - label: email
+      link: hyeju5891@gmail.com
+  badges:
+    - name: Feature plans with coffee website
